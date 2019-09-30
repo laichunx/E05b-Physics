@@ -1,4 +1,9 @@
 # E05b-Physics
+# Description:
+# In this assignment we praticed how the gravity work in arcade.
+# We can also create a lot of different physic movement by using gravity, such as bouncing.
+# Moreover, we praticed how to make the sprites to interact with each other while having collision.
+
 Exploring 2D physics and collisions.
 
 In *main1.py*, you will need to apply gravity to the balls on the screen. To do so, you will need to find an appropriate gravity constant and assign GRAVITY to that number (line 17). Because of the way the Y axis works in Python Arcade, GRAVITY will need to be a negative number for the balls to fall.
